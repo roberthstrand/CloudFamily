@@ -184,5 +184,5 @@ chapter: true
 ---
 
 #### {{< open-in-blank "Billy York" "https://www.cloudsma.com" >}}
-![Billy York](/images/blogs/BillyYork.PNG?width=50pc)
+![Billy York](/images/blogs/BillyYork.png?width=50pc)
 
